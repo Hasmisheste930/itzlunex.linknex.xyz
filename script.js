@@ -236,8 +236,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    ":D",
-    "\"Hello, World!\""
+    "Need custom page? Dm me on discord - 6b4kk",
   ];
   let bioText = '';
   let bioIndex = 0;
